@@ -1,6 +1,7 @@
 
 # ⚡ Voltgear – EV Management & Tracking App
-![voltgear](https://github.com/user-attachments/assets/13e2172a-57bb-49e9-81af-96480d42435e)
+![voltgear](https://github.com/user-attachments/assets/141f77f0-d2d8-4474-b302-1fcb92bd9654)
+
 
 
 
