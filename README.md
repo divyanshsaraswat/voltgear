@@ -1,6 +1,7 @@
 
 # ⚡ Voltgear – EV Management & Tracking App
-![voltgear](https://github.com/user-attachments/assets/6548895c-23d9-4c85-877d-a8a581465a68)
+![voltgear](https://github.com/user-attachments/assets/13e2172a-57bb-49e9-81af-96480d42435e)
+
 
 
 Voltgear is a cutting-edge electric vehicle (EV) management application built with [Expo](https://expo.dev), designed to meet the highest industry standards in smart transportation. The app provides real-time vehicle tracking, battery analytics, trip data, and more — everything you need to stay connected with your electric vehicle at all times.
