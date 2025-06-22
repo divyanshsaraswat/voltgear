@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+*.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest / Coverage
+coverage/
+*.lcov
+
+# Metro cache
+.cache/
+react-native-debugger.json
+
+# Misc
+*.keystore
+*.jks
+*.p8
+*.p12
+*.key

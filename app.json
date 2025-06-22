@@ -1,0 +1,88 @@
+{
+  "expo": {
+    "name": "voltgear",
+    "slug": "voltgear",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icons/android/icon-light.png",
+    "scheme": "voltgear",
+    "userInterfaceStyle": "dark",
+    "jsEngine":"hermes",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.divyansh.voltgear",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+
+      "expo-router",
+     
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/icons/android/icon-dark.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#1A1C1A"
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/LufgaRegular.ttf"
+          ],
+          "android": {
+            "fonts": [
+              {
+                "fontFamily": "Lufga",
+                "fontDefinitions": [
+                  {
+                    "path": "./assets/fonts/LufgaThin.ttf",
+                    "weight": 400
+                  },
+                  {
+                    "path": "./assets/fonts/LufgaRegular.ttf",
+                    "weight": 500
+                  },
+                  {
+                    "path":"./assets/fonts/LufgaMedium.ttf",
+                    "weight":600
+                  },
+                  {
+                    "path":"./assets/fonts/LufgaBold.ttf",
+                    "weight":700
+                  },
+                  {
+                    "path":"./assets/fonts/LufgaBlack.ttf",
+                    "weight":800
+                  }
+                ]
+              }
+            ]
+          },
+          "ios": {
+            "fonts": ["./assets/fonts/LufgaThin.ttf", "./assets/fonts/LufgaRegular.ttf", "./assets/fonts/LufgaMedium.ttf", "./assets/fonts/LufgaBold.ttf", "./assets/fonts/LufgaBlack.ttf"]
+          }
+        }
+      ]
+
+      
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
