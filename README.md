@@ -113,19 +113,4 @@ Have questions or suggestions? Reach out via Issues or email us at `team@voltgea
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-### Dependencies & Licenses
 
-Voltgear makes use of the following open-source libraries and frameworks:
-
-- **Next.js** - MIT License
-- **Tailwind CSS** - MIT License
-- **ShadCN UI** - MIT License
-- **Lucide Icons** - ISC License
-- **TypeScript** - Apache 2.0 License
-- **Vercel** (Deployment) - Commercial platform with free tier
-- **React** - MIT License
-- **Radix UI** - MIT License
-- **React Hook Form** - MIT License
-- **Zod** - MIT License
-
-Please refer to each individual package for more specific license terms.
